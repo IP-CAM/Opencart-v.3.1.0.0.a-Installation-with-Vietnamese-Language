@@ -1,0 +1,132 @@
+<?php
+// Heading
+$_['heading_title']              = 'Lệnh';
+
+// Text
+$_['text_success']               = 'Thành công: bạn có đơn đặt hàng sửa đổi!';
+$_['text_list']                  = 'Danh sách đơn hàng';
+$_['text_add']                   = 'Thêm đặt hàng';
+$_['text_edit']                  = 'Chỉnh sửa trật tự';
+$_['text_filter']                = 'Lọc';
+$_['text_order_detail']          = 'Đặt hàng chi tiết';
+$_['text_customer_detail']       = 'Chi tiết khách hàng';
+$_['text_option']                = 'Tùy chọn';
+$_['text_store']                 = 'Cửa hàng';
+$_['text_date_added']            = 'Ngày thêm vào';
+$_['text_payment_method']        = 'Phương thức thanh toán';
+$_['text_shipping_method']       = 'Phương pháp vận chuyển';
+$_['text_customer']              = 'Khách hàng';
+$_['text_customer_group']        = 'Nhóm khách hàng';
+$_['text_email']                 = 'E-mail';
+$_['text_telephone']             = 'Điện thoại';
+$_['text_fax']                   = 'Fax';
+$_['text_invoice']               = 'Hóa đơn';
+$_['text_reward']                = 'Điểm thưởng';
+$_['text_affiliate']             = 'Liên kết';
+$_['text_order']                 = 'Đặt hàng (#%s)';
+$_['text_payment_address']       = 'Địa chỉ thanh toán';
+$_['text_shipping_address']      = 'Địa chỉ giao hàng';
+$_['text_comment']               = 'Khách hàng bình luận';
+$_['text_history']               = 'Lịch sử đặt hàng';
+$_['text_history_add']           = 'Thêm lịch sử đặt hàng';
+$_['text_account_custom_field']  = 'Tài khoản tùy chỉnh Fields';
+$_['text_payment_custom_field']  = 'Trường tuỳ chỉnh địa chỉ thanh toán';
+$_['text_shipping_custom_field'] = 'Địa chỉ vận chuyển trường tùy chỉnh';
+$_['text_browser']               = 'Trình duyệt';
+$_['text_ip']                    = 'Địa chỉ IP';
+$_['text_forwarded_ip']          = 'Chuyển tiếp IP';
+$_['text_user_agent']            = 'Đại lý người dùng';
+$_['text_accept_language']       = 'Chấp nhận ngôn ngữ';
+$_['text_order_id']              = 'ID đặt hàng:';
+$_['text_website']               = 'Trang web:';
+$_['text_invoice_no']            = 'Hóa đơn số';
+$_['text_invoice_date']          = 'Hoá đơn ngày:';
+$_['text_sku']                   = 'Sku:';
+$_['text_upc']                   = 'Upc:';
+$_['text_ean']                   = 'Ean:';
+$_['text_jan']                   = 'Jan:';
+$_['text_isbn']                  = 'Isbn:';
+$_['text_mpn']                   = 'MPN';
+$_['text_missing']               = 'Thiếu đơn đặt hàng';
+$_['text_default']               = 'Mặc định';
+$_['text_product']               = 'Thêm sản phẩm (s)';
+$_['text_voucher']               = 'Thêm phiếu';
+$_['text_shipping']              = 'Vận chuyển';
+$_['text_contact']               = 'Liên hệ';
+$_['text_reward_added']          = 'Thành công: điểm thưởng được gửi!';
+$_['text_reward_removed']        = 'Thành công: điểm thưởng Removed!';
+$_['text_commission_added']      = 'Thành công: hoa hồng thêm!';
+$_['text_commission_removed']    = 'Thành công: hoa hồng Removed!';
+$_['text_restock']               = 'Thành công: sản phẩm đã được restocked!';
+$_['text_upload']                = 'Tệp của bạn đã được tải lên thành công!';
+$_['text_picklist']              = 'Dispatch lưu ý';
+
+// Column
+$_['column_order_id']            = 'ID đặt hàng';
+$_['column_customer']            = 'Khách hàng';
+$_['column_status']              = 'Tình trạng';
+$_['column_date_added']          = 'Ngày thêm vào';
+$_['column_date_modified']       = 'Ngày sửa đổi';
+$_['column_total']               = 'Tất cả';
+$_['column_product']             = 'Sản phẩm';
+$_['column_model']               = 'Mô hình';
+$_['column_quantity']            = 'Số lượng';
+$_['column_price']               = 'Đơn giá';
+$_['column_comment']             = 'Bình luận';
+$_['column_notify']              = 'Khách hàng thông báo';
+$_['column_location']            = 'Vị trí';
+$_['column_reference']           = 'Tham khảo';
+$_['column_action']              = 'Hành động';
+$_['column_weight']              = 'Sản phẩm trọng lượng';
+
+// Entry
+$_['entry_store']                = 'Cửa hàng';
+$_['entry_customer']             = 'Khách hàng';
+$_['entry_customer_group']       = 'Nhóm khách hàng';
+$_['entry_firstname']            = 'Tên';
+$_['entry_lastname']             = 'Tên cuối cùng';
+$_['entry_email']                = 'E-mail';
+$_['entry_telephone']            = 'Điện thoại';
+$_['entry_address']              = 'Chọn địa chỉ';
+$_['entry_company']              = 'Công ty';
+$_['entry_address_1']            = 'Địa chỉ 1';
+$_['entry_address_2']            = 'Địa chỉ 2';
+$_['entry_city']                 = 'City';
+$_['entry_postcode']             = 'Postcode';
+$_['entry_country']              = 'Quốc gia';
+$_['entry_zone']                 = 'Vùng/bang';
+$_['entry_zone_code']            = 'Vùng/mã nhà nước';
+$_['entry_product']              = 'Chọn sản phẩm';
+$_['entry_option']               = 'Chọn tùy chọn (s)';
+$_['entry_quantity']             = 'Số lượng';
+$_['entry_to_name']              = 'Tên người nhận';
+$_['entry_to_email']             = 'E-mail của người nhận';
+$_['entry_from_name']            = 'Tên người gửi';
+$_['entry_from_email']           = 'E-mail của người gửi';
+$_['entry_theme']                = 'Giấy chứng nhận quà tặng chủ đề';
+$_['entry_message']              = 'Thư';
+$_['entry_amount']               = 'Lượng';
+$_['entry_affiliate']            = 'Liên kết';
+$_['entry_order_status']         = 'Tình trạng đặt hàng';
+$_['entry_notify']               = 'Thông báo cho khách hàng';
+$_['entry_override']             = 'Ghi đè';
+$_['entry_comment']              = 'Bình luận';
+$_['entry_currency']             = 'Thu';
+$_['entry_shipping_method']      = 'Phương pháp vận chuyển';
+$_['entry_payment_method']       = 'Phương thức thanh toán';
+$_['entry_coupon']               = 'Coupon';
+$_['entry_voucher']              = 'Phiếu';
+$_['entry_reward']               = 'Thưởng';
+$_['entry_order_id']             = 'ID đặt hàng';
+$_['entry_total']                = 'Tất cả';
+$_['entry_date_added']           = 'Ngày thêm vào';
+$_['entry_date_modified']        = 'Ngày sửa đổi';
+
+// Help
+$_['help_override']              = 'Nếu đơn đặt hàng đang bị chặn từ việc thay đổi trạng thái đơn đặt hàng do một phần mở rộng chống gian lận cho phép ghi đè.';
+
+// Error
+$_['error_warning']              = 'Cảnh báo: vui lòng kiểm tra các hình thức cẩn thận cho lỗi!';
+$_['error_permission']           = 'Cảnh báo: bạn không có quyền sửa đổi đơn đặt hàng!';
+$_['error_action']               = 'Cảnh báo: không thể hoàn thành hành động này!';
+$_['error_filetype']             = 'Loại tệp không hợp lệ!';
