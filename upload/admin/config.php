@@ -11,7 +11,7 @@ define('HTTPS_CATALOG', 'http://localhost:3000/');
 define('DIR_APPLICATION', '/Users/trandong/Documents/Git/GitHub/opencart-master/upload/admin/');
 define('DIR_SYSTEM', '/Users/trandong/Documents/Git/GitHub/opencart-master/upload/system/');
 define('DIR_IMAGE', '/Users/trandong/Documents/Git/GitHub/opencart-master/upload/image/');
-define('DIR_STORAGE', DIR_SYSTEM . 'storage/');
+define('DIR_STORAGE', '/Users/trandong/Documents/Git/GitHub/opencart-master/storage/');
 define('DIR_CATALOG', '/Users/trandong/Documents/Git/GitHub/opencart-master/upload/catalog/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/template/');
