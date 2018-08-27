@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae368dd4-967c-403d-b815-746ec81524d5" name="Default Changelist" comment="" />
+    <list default="true" id="ae368dd4-967c-403d-b815-746ec81524d5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/storage/cache/cache.country.admin.1535382403" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cache/cache.currency.1535385646" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cache/cache.return_status.1.1535382403" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cache/cache.store.1535385641" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cache/cache.zone.222.1535382403" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,12 +128,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535379816215</updated>
-      <workItem from="1535379817558" duration="946000" />
+      <workItem from="1535379817558" duration="1069000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="946000" />
+    <option name="totallyTimeSpent" value="1069000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
