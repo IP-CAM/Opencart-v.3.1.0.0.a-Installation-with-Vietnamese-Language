@@ -22,3 +22,15 @@
 2018-08-27 22:17:44 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /Users/trandong/Documents/Git/GitHub/opencart-master/upload/system/library/cache/file.php on line 61
 2018-08-27 22:17:44 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /Users/trandong/Documents/Git/GitHub/opencart-master/upload/system/library/cache/file.php on line 63
 2018-08-27 22:17:44 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /Users/trandong/Documents/Git/GitHub/opencart-master/upload/system/library/cache/file.php on line 65
+2018-08-27 22:19:33 - PHP Warning:  fopen(/Users/trandong/Documents/Git/GitHub/opencart-master/storage/cache/cache.store.1535386773): failed to open stream: No such file or directory in /Users/trandong/Documents/Git/GitHub/opencart-master/upload/system/library/cache/file.php on line 55
+2018-08-27 22:19:33 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /Users/trandong/Documents/Git/GitHub/opencart-master/upload/system/library/cache/file.php on line 57
+2018-08-27 22:19:33 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /Users/trandong/Documents/Git/GitHub/opencart-master/upload/system/library/cache/file.php on line 59
+2018-08-27 22:19:33 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /Users/trandong/Documents/Git/GitHub/opencart-master/upload/system/library/cache/file.php on line 61
+2018-08-27 22:19:33 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /Users/trandong/Documents/Git/GitHub/opencart-master/upload/system/library/cache/file.php on line 63
+2018-08-27 22:19:33 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /Users/trandong/Documents/Git/GitHub/opencart-master/upload/system/library/cache/file.php on line 65
+2018-08-27 22:19:33 - PHP Warning:  fopen(/Users/trandong/Documents/Git/GitHub/opencart-master/storage/cache/cache.store.1535386773): failed to open stream: No such file or directory in /Users/trandong/Documents/Git/GitHub/opencart-master/upload/system/library/cache/file.php on line 55
+2018-08-27 22:19:33 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /Users/trandong/Documents/Git/GitHub/opencart-master/upload/system/library/cache/file.php on line 57
+2018-08-27 22:19:33 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /Users/trandong/Documents/Git/GitHub/opencart-master/upload/system/library/cache/file.php on line 59
+2018-08-27 22:19:33 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /Users/trandong/Documents/Git/GitHub/opencart-master/upload/system/library/cache/file.php on line 61
+2018-08-27 22:19:33 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /Users/trandong/Documents/Git/GitHub/opencart-master/upload/system/library/cache/file.php on line 63
+2018-08-27 22:19:33 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /Users/trandong/Documents/Git/GitHub/opencart-master/upload/system/library/cache/file.php on line 65
